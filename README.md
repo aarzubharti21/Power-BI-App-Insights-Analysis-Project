@@ -179,11 +179,7 @@ PowerBI-App-Insights-Analysis/
 
 ---
 
-## Dashboard Preview
 
-Add a screenshot of your dashboard here:
-
-![Dashboard Preview](Images/Dashboard_Screenshot.png)
 
 ---
 
